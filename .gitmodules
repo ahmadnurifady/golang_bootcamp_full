@@ -1,0 +1,3 @@
+[submodule "golang_exam_week2"]
+	path = golang_exam_week2
+	url = https://github.com/ahmadnurifady/golang_exam_week2.git
